@@ -1,0 +1,5 @@
+forint ( true ) {
+	int eper = 15;
+	double barack = 1.2;
+	double alma = eper + barack;
+}

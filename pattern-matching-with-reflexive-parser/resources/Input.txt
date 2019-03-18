@@ -1,5 +1,0 @@
-while ( true ) {
-	int eper = 15;
-	double barack = 15.6;
-	double alma = eper + barack;
-}
